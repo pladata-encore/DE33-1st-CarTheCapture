@@ -13,10 +13,9 @@
 
 ---
 ## ✨ 주제 선정 배경
-음주, 졸음 운전을 비롯한 교통 사고에 의해 발생되는데, 사고 후 처리를 하지 않고 사고를 인지했음에도 도망 갔을 때 **뺑소니**   
-그 동안 사고라 하면 CCTV, 블랙박스 자료를 통해 사고 차량을 잡는 경우도 있었지만 억울한 경우도 있었음   
-딥러닝 기반의 CNN의 여러 모델을 활용하여 차량 사진을 분류하여 **뺑소니** 차량의 차종/모델을 분류하는 것을 목표로 함   
 
+- 뺑소니 사고는 책임 소재 규명이 어려워 가해 차량을 찾는 것이 중요함. 이를 해결하기 위해 신속, 정확한 차량 식별 기술이 요구됨에 따라
+CNN 기반의 딥러닝 모델들을 사용하여 차종의 특성을 학습시켜 높은 정확도 차량을 분류하는 것을 목표로 함
 ---
 
 ## 🖥️ 데이터 수집 및 전처리
@@ -34,12 +33,12 @@
 
 > ### 프로젝트에 적용한 CNN 모델
 
-<a href = "https://www.notion.so/ohgiraffers/VGG-aa3fbe441bf54a9e965d7b8be11cba1a"><img src="https://img.shields.io/badge/VGG16-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
-<a href = "https://www.notion.so/ohgiraffers/ResNet-a830b33f1b4643aa8aa0544ec4e366d2"><img src="https://img.shields.io/badge/ResNet-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
-<a href = "https://www.notion.so/ohgiraffers/InceptionV3-21f0c76b5fa84172b26471e550e79ed5"><img src="https://img.shields.io/badge/InceptionV3-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
-<a href = "https://www.notion.so/ohgiraffers/EfficientNetB1-70927442a616436393c9f2450c9b94f5"><img src="https://img.shields.io/badge/EfficientNet-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
-<a href = "https://www.notion.so/ohgiraffers/Xception-4755e33445d24d3098471f0b4ba8207e"><img src="https://img.shields.io/badge/Xception-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
-<a href = "https://www.notion.so/ohgiraffers/MobileNet-405b034cd90d47b89f85d9522155258e"><img src="https://img.shields.io/badge/MobileNet-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
+- <a href = "https://www.notion.so/ohgiraffers/VGG-aa3fbe441bf54a9e965d7b8be11cba1a"><img src="https://img.shields.io/badge/VGG16-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
+- <a href = "https://www.notion.so/ohgiraffers/ResNet-a830b33f1b4643aa8aa0544ec4e366d2"><img src="https://img.shields.io/badge/ResNet-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
+- <a href = "https://www.notion.so/ohgiraffers/InceptionV3-21f0c76b5fa84172b26471e550e79ed5"><img src="https://img.shields.io/badge/InceptionV3-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
+- <a href = "https://www.notion.so/ohgiraffers/EfficientNetB1-70927442a616436393c9f2450c9b94f5"><img src="https://img.shields.io/badge/EfficientNet-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
+- <a href = "https://www.notion.so/ohgiraffers/Xception-4755e33445d24d3098471f0b4ba8207e"><img src="https://img.shields.io/badge/Xception-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
+- <a href = "https://www.notion.so/ohgiraffers/MobileNet-405b034cd90d47b89f85d9522155258e"><img src="https://img.shields.io/badge/MobileNet-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
 
 
 ---
