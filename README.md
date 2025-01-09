@@ -8,7 +8,7 @@
 
 #### 🌱 팀원
 <a href = "https://ohgiraffers.notion.site/9e6c411ea3db4bc3896afea1560ea61b?pvs=4"><img src="https://img.shields.io/badge/팀 Notion-ffffff?style=flat&logo=Notion&logoColor=black" target="_blank"/></a>&nbsp;&nbsp;
-<a href = "https://onedrive.live.com/personal/5620b07780b8c77b/_layouts/15/Doc.aspx?sourcedoc=%7B2a4e9954-6e36-467a-bb10-0b778813572f%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy81NjIwYjA3NzgwYjhjNzdiL0VWU1pUaW8yYm5wR3V4QUxkNGdUVnk4QnNNNGdQUDJmWlFmRXpYWC1iWUR3ZFE_ZT1rbGt0bU8&slrid=d7d174a1-c0a5-7000-65e2-c9d4feec728d&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy81NjIwYjA3NzgwYjhjNzdiL0VWU1pUaW8yYm5wR3V4QUxkNGdUVnk4QnNNNGdQUDJmWlFmRXpYWC1iWUR3ZFE_cnRpbWU9ejBMT1VEUXUzVWc&CID=ae9dddd6-ed72-4964-8130-650e0ec9b7a9&_SRM=0:G:58&file=cnn_project_v0.1.pptx"><img src="https://img.shields.io/badge/PPT자료-B7472A?style=flat&logo=microsoft-powerpoint" target="_blank"/></a>
+<a href = "https://onedrive.live.com/:p:/g/personal/5620B07780B8C77B/EVSZTio2bnpGuxALd4gTVy8Bj-AhG0Y8rMaO_m1QhRQeSQ?resid=5620B07780B8C77B!s2a4e99546e36467abb100b778813572f&ithint=file%2Cpptx&e=y89k5K&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy81NjIwYjA3NzgwYjhjNzdiL0VWU1pUaW8yYm5wR3V4QUxkNGdUVnk4QmotQWhHMFk4ck1hT19tMVFoUlFlU1E_ZT15ODlrNUs"><img src="https://img.shields.io/badge/PPT자료-B7472A?style=flat&logo=microsoft-powerpoint" target="_blank"/></a>
 
 [😎오현옥](https://github.com/alonee9393)&nbsp;&nbsp;&nbsp;&nbsp;[🐬유미라](https://github.com/raramii)&nbsp;&nbsp;&nbsp;&nbsp;[🦄진현석](https://github.com/culown)&nbsp;&nbsp;&nbsp;&nbsp;[🎸최동현](https://github.com/dh823)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
